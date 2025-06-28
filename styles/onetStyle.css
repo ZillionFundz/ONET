@@ -64,6 +64,7 @@ body {
     border-radius: 35px 35px 0px 0px;
     height: 400px;
     padding: 30px 10px;
+    padding-bottom: 50px;
     /*width: 100%;*/
     /*overflow: hidden;*/
 }
