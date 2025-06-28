@@ -64,4 +64,5 @@ body {
 
 .welcomingBottomTextWelcome span {
     font-zise: 1.8rem;
+    text-transform: uppercase;
 }
