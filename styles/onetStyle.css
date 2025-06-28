@@ -9,6 +9,7 @@
 
 body {
     margin: 0px;
+    /*padding: 0px;*/
     background: hsl(296, 41%, 8%); 
     /* display: flex; */
     /* justify-content: center; */
@@ -19,7 +20,7 @@ body {
 
 .container {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
     flex-direction: column;
     width: 380px;
@@ -30,11 +31,13 @@ body {
     overflow: hidden;
     border: 1px solid hsl(250, 50%, 60%);
     margin: 5px auto 5px;
+    padding: 0px;
 }
 
 .welcomingBottom {
     background: #2E33F9;
-    border-radius: 15px, 0px;
+    border-radius: 15px 0px 0px 15px;
     height: 400px;
-    padding: 10px;
+    margin-bottom: 0px;
+    padding: 20px;
 }
