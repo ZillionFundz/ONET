@@ -8,12 +8,13 @@
 }
 
 body {
-    margin: auto;
-    padding: auto;
-    background: hsl(296, 41%, 8%); 
-    /* display: flex; */
-    /* justify-content: center; */
-    /* align-items: center; */
+    /*margin: auto;*/
+    /*padding: auto;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*flex-direction: column;*/
+    background: hsl(296, 41%, 8%);
     /* height: 100vh; */
     /* padding: 2px; */
 }
@@ -110,7 +111,7 @@ body {
     height: 45px;
     padding-left: 5px;
     font-zise: 2rem;
-    border-radius: 4px;
+    border-radius: 5px;
 }
 
 .welcomingBottomLoginButton button {
@@ -118,7 +119,7 @@ body {
     height: 40px;
     font-zise: 18px; 
     font-weigh: bold;
-    border-radius: 4px;
+    border-radius: 5px;
     text-transform: uppercase;
 }
 
