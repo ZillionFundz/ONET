@@ -36,10 +36,10 @@ body {
 
 .welcomingBottom {
     background: #2E33F9;
-    border-radius: 15px 15px 0px 0px;
+    border-radius: 20px 20px 0px 0px;
     height: 400px;
     /*margin-bottom: 0px;*/
-    padding: 20px;
+    padding: 20px 30px;
 }
 
 .onetBox {
@@ -47,5 +47,8 @@ body {
     justify-content: cwnter;
     align-items: center;
     flex-direction: column;
-    text-align: center;
+    /*text-align: center;*/
+    margin: atuto;
+    padding: auto;
+
 }
