@@ -115,8 +115,9 @@ body {
 .welcomingBottomLoginButton button {
     width: 150px;
     height: 40px;
-    font-zise: 2rem; 
+    font-zise: 18px; 
     font-weigh: bold;
     border-radius: 4px;
+    text-transform: uppercase;
 }
 
