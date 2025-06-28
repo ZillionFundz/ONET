@@ -69,7 +69,21 @@ body {
 
 .welcomingBottomTextWelcome span {
     font-zise: 1.8rem;
-    font-weigh: bold;
+    font-weigh: solid;
     text-transform: uppercase;
     text-align: center;
+    margin: 5px 0px 10px;
+}
+
+.welcomingBottomSlidersBox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.welcomingBottomSliderImage {
+    width: 85px;
+    height: 70px;
+    border-radius: 5px;
+    border: 1px solid black;
 }
