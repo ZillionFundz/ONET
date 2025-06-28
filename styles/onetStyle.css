@@ -39,7 +39,7 @@ body {
     justify-content: center;
     align-items: centr;
     flex-direction: column;
-    padding-top: 10px;
+    margin-top: 10px;
 }
 
 .welcomingBottom {
