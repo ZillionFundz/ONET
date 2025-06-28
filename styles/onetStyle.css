@@ -54,11 +54,14 @@ body {
 }
 
 .welcomingBottom {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*flex-direction: column;*/
     background: #6b6dfa;
     border-radius: 35px 35px 0px 0px;
     height: 400px;
-    margin: auto;
-    padding: 30px 15px;
+    padding: 30px 10px;
     /*width: 100%;*/
     overflow: hidden;
 }
