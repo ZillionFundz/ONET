@@ -41,3 +41,10 @@ body {
     /*margin-bottom: 0px;*/
     padding: 20px;
 }
+
+.onetBox {
+    display: flex;
+    justify-content: cwnter;
+    align-items: center;
+    flex-direction: column;
+}
