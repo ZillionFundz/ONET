@@ -71,7 +71,7 @@ body {
 }
 
 .welcomingBottomTextWelcome span {
-    font-zise: 2rem;
+    font-zise: 2.5rem;
     font-weigh: bold;
     text-transform: uppercase;
     /*text-align: center;*/
@@ -105,7 +105,16 @@ body {
 
 .welcomingBottomEmailField input {
     width: 300px;
-    height: 45px;
-    padding: 5px;
-    font-zise: 1.8rem;
+    height: 55px;
+    padding-left: 5px;
+    font-zise: 2rem;
+    border-radius: 2px;
 }
+
+.welcomingBottomLoginButton {
+    width: 75px;
+    height: 45px;
+    font-zise: 2rem; 
+    font-weigh: bold;
+}
+
