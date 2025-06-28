@@ -1,1 +1,33 @@
+*,
+*::before,
+*::after {
 
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    background: hsl(296, 41%, 8%); 
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* height: 100vh; */
+    /* padding: 2px; */
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    width: 380px;
+    height: 100vh;
+    border-radius: 15px;
+    /*background: radial-gradient(#1c0c1d, #663267, #1c0c1d);*/
+    background: #2E33F9;
+    overflow: hidden;
+    border: 1px solid hsl(250, 50%, 60%);
+    margin: 5px auto 5px;
+}
