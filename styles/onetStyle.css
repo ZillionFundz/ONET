@@ -39,14 +39,15 @@ body {
     justify-content: center;
     align-items: centr;
     flex-direction: column;
+    padding-top: 10px;
 }
 
 .welcomingBottom {
     background: #2E33F9;
     border-radius: 35px 35px 0px 0px;
     height: 400px;
-    margin: 0px;
-    padding: 30px 10px;
+    margin: auto;
+    padding: 30px 15px;
 }
 
 .onetBox {
