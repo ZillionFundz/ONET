@@ -34,6 +34,12 @@ body {
     padding: 0px;
 }
 
+.welcomingBoxTop {
+    display: flex;
+    justify-content: center;
+    align-items: centr;
+}
+
 .welcomingBottom {
     background: #2E33F9;
     border-radius: 35px 35px 0px 0px;
