@@ -34,17 +34,23 @@ body {
     padding: 0px;
 }
 
-.logoBox img {
-    Width: 150px;
-    height: 150px;
-}
-
 .welcomingBoxTop {
     display: flex;
     justify-content: center;
     align-items: centr;
     flex-direction: column;
     margin-top: 10px;
+}
+
+.logoBox img {
+    Width: 125px;
+    height: 125px;
+}
+
+.onetBox {
+    text-align: center;
+    margin: auto;
+    padding: auto;
 }
 
 .welcomingBottom {
@@ -56,12 +62,6 @@ body {
     width: 100%;
 }
 
-.onetBox {
-    /*display: flex;
-    justify-content: cwnter;
-    align-items: center;
-    flex-direction: column;*/
-    text-align: center;
-    margin: auto;
-    padding: auto;
+.welcomingBottomTextWelcome {
+    font-zise: 1.8rem;
 }
