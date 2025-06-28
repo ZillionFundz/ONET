@@ -36,7 +36,7 @@ body {
 
 .welcomingBottom {
     background: #2E33F9;
-    border-radius: 15px 0px 0px 15px;
+    border-radius: 15px 15px 0px 0px;
     height: 400px;
     margin-bottom: 0px;
     padding: 20px;
