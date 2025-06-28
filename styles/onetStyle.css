@@ -105,16 +105,17 @@ body {
 
 .welcomingBottomEmailField input {
     width: 300px;
-    height: 55px;
+    height: 45px;
     padding-left: 5px;
     font-zise: 2rem;
-    border-radius: 2px;
+    border-radius: 4px;
 }
 
-.welcomingBottomLoginButton {
+.welcomingBottomLoginButton button {
     width: 75px;
     height: 45px;
     font-zise: 2rem; 
     font-weigh: bold;
+    border-radius: 4px;
 }
 
