@@ -70,12 +70,14 @@ body {
 }
 
 .welcomingBottomTextUp {
-    margin: auto;
-    padding: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 
 .welcomingBottomTextWelcome span {
-    font-zise: 2.5rem;
+    font-zise: 3rem;
     font-weigh: bold;
     text-transform: uppercase;
     /*text-align: center;*/
