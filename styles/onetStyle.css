@@ -34,6 +34,6 @@ body {
 
 .welcomingBottom {
     background: #2E33F9;
-    border-radius: 15px, 0px;
-    height: 700px;
+    border-radius: 15px 0px;
+    height: 400px;
 }
