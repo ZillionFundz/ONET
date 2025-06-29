@@ -13,8 +13,9 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    background: 809fff;
     /*flex-direction: column;*/
-    background: hsl(296, 41%, 8%);
+    /*background: hsl(296, 41%, 8%);*/
     /* height: 100vh; */
     /* padding: 2px; */
 }
