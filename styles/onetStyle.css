@@ -78,7 +78,8 @@ body {
 }
 
 .welcomingBottomTextWelcome span {
-    font-zise: 3rem;
+    font-family: Arial-black;
+    font-zise: 26px;
     font-weigh: bold;
     text-transform: uppercase;
     /*text-align: center;*/
