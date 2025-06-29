@@ -95,7 +95,7 @@ body {
     padding: 5px;
     gap: 4px;
     
-    /*width: 100%;*/
+    width: 100%;
     animation: slide 16s infinite;
 
 }
