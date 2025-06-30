@@ -101,8 +101,8 @@ body {
 
 .welcomingBottomTextWelcome span {
     font-family: Arial-black;
-    font-size: 18px;
-    font-weigh: bold;
+    font-size: 25px;
+    font-weight: bold;
     text-transform: uppercase;
     /*text-align: center;*/
     margin: 15px 0px 10px 0px;
@@ -118,7 +118,7 @@ body {
     /*flex-direction: row;*/
     /*padding: 5px;*/
     gap: 4px;
-    margin: 10px 0px 10px;
+    margin: 10px 0px 10px 0px;
     /*width: 100px;*/
     border: 1px solid red;
     /*border-radius: 5px;*/
@@ -126,10 +126,10 @@ body {
 }
 
 .welcomingBottomSliderImage {
-    width: 250px;
-    height: 100px;
+    width: 210px;
+    height: 120px;
     border: 1px solid black;
-    border-radius: 15px;
+    border-radius: 10px;
     animation: slide 10s infinite;
     /*margin: 5px 2px;*/
 }
@@ -170,19 +170,21 @@ body {
 }
 
 .welcomingBottomEmailField input {
-    width: 300px;
-    height: 45px;
+    width: 320px;
+    height: 48px;
     padding-left: 5px;
     font-zise: 2rem;
     border-radius: 5px;
 }
 
 .welcomingBottomLoginButton button {
-    width: 150px;
+    width: 200px;
     height: 40px;
-    font-zise: 18px; 
+    font-size: 12px; 
     font-weigh: bold;
-    border-radius: 5px;
+    border-radius: 10px;
+    background: #000;
+    cor: #ffffff;
     text-transform: uppercase;
 }
 
