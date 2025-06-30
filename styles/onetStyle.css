@@ -98,7 +98,7 @@ body {
 
 .welcomingBottomTextWelcome span {
     font-family: Arial-black;
-    font-sise: 36px;
+    font-size: 36px;
     font-weigh: bold;
     text-transform: uppercase;
     /*text-align: center;*/
@@ -116,7 +116,7 @@ body {
     /*padding: 5px;*/
     gap: 4px;
     margin: 10px 0px 10px;
-    width: 100%;
+    /*width: 100%;*/
     /*border-radius: 5px;*/
     /*animation: slide 16s infinite;*/
 }
