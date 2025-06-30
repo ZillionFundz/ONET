@@ -91,7 +91,7 @@ body {
     text-align: center;
     margin: auto;
     padding: auto;
-    bottom: 20px;
+    /*bottom: 20px;*/
     /*display: flex;
     justify-content: center;
     align-items: center;
@@ -102,9 +102,9 @@ body {
 
 .welcomingBottomTextWelcome {
     /*text-align: center;*/
-    margin: 10px;
-    top: 25px
-    padding: 5px;
+    margin: 5px 0px;
+    /*top: 25px*/
+    padding: 2px;
 }
 
 .welcomingBottomTextWelcome span {
@@ -131,7 +131,7 @@ body {
 }
 
 .welcomingBottomSliderImage {
-    width: 100%;
+    width: 300px;
     height: 100px;
     border: 1px solid black;
     border-radius: 5px;
