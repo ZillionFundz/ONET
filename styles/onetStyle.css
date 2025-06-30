@@ -51,7 +51,7 @@ body {
     align-items: centr;
     flex-direction: column;
     margin-top: 10px;
-    font-zise: 36px;
+    font-sise: 36px;
 }
 
 .logoBox img {
@@ -98,11 +98,11 @@ body {
 
 .welcomingBottomTextWelcome span {
     font-family: Arial-black;
-    font-zise: 36px;
+    font-sise: 36px;
     font-weigh: bold;
     text-transform: uppercase;
     /*text-align: center;*/
-    margin: 5px 0px 10px;
+    margin: 10px 0px 5px;
     padding: 5px;
 
 }
@@ -117,14 +117,16 @@ body {
     gap: 4px;
     margin: 10px 0px 10px;
     width: 100%;
-    border-radius: 5px;
-    animation: slide 16s infinite;
+    /*border-radius: 5px;*/
+    /*animation: slide 16s infinite;*/
 }
 
 .welcomingBottomSliderImage {
     width: 210px;
     height: 100px;
     border: 1px solid black;
+    border-radius: 5px;
+    animation: slide 16s infinite;
     /*margin: 5px 2px;*/
 }
 
