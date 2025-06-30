@@ -119,7 +119,7 @@ body {
     display: flex;
     justify-content: center;
     /*align-items: center;*/
-    /*overflow: hidden;*/
+    overflow: hidden;
     /*flex-direction: row;*/
     /*padding: 5px;*/
     gap: 4px;
