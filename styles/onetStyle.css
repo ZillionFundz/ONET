@@ -124,9 +124,9 @@ body {
     /*padding: 5px;*/
     gap: 4px;
     margin: 2px 0px 5px 0px;
-    padding: 1px;
+    padding: 2px;
     /*width: 100%;*/
-    height:110px;
+    height:100vh;
     border: 1px solid red;
     /*border-radius: 5px;*/
     /*animation: slide 16s infinite;*/
