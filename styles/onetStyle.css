@@ -106,7 +106,7 @@ body {
     text-transform: uppercase;
     /*text-align: center;*/
     margin: 10px;
-    padding-top: 15px
+    margin-top: 25px
     padding: 5px;
 
 }
@@ -179,8 +179,8 @@ body {
 }
 
 .welcomingBottomLoginButton button {
-    width: 200px;
-    height: 40px;
+    width: 160px;
+    height: 45px;
     font-size: 12px; 
     font-weigh: bold;
     border-radius: 10px;
@@ -188,4 +188,3 @@ body {
     color: #ffffff;
     text-transform: uppercase;
 }
-
