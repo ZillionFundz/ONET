@@ -81,7 +81,7 @@ body {
     border-radius: 35px 35px 0px 0px;
     height: 410px;
     padding: 20px 10px;
-    padding-bottom: 50px;
+    padding-bottom: 65px;
     width: 100%;
     border-top: 4px solid #000;
     /*overflow: hidden;*/
@@ -125,14 +125,14 @@ body {
     gap: 4px;
     margin: 2px 0px 5px 0px;
     padding: 1px;
-    /*width: 100px;*/
+    width: 100px;
     border: 1px solid red;
     /*border-radius: 5px;*/
     /*animation: slide 16s infinite;*/
 }
 
 .welcomingBottomSliderImage {
-    width: 100%;
+    width: 80%;
     height: 100px;
     border: 1px solid black;
     border-radius: 5px;
