@@ -37,6 +37,9 @@ body {
 
 .welcomeHeader {
     width: 100%;
+    background: #6b6dfa;
+    height: 75px;
+    border-radius: 35px 35px 0px 0px;
 }
 
 .welcomingBoxTop {
