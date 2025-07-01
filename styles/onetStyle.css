@@ -108,7 +108,10 @@ body {
 }
 
 .welcomingBottomTextWelcome span {
-    font-family: Arial-black;
+    
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 1px;
+    /*font-family: Arial-black;*/
     font-size: 22px;
     font-weight: bold;
     text-transform: uppercase;
