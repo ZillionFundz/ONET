@@ -99,7 +99,7 @@ body {
     gap: 0px;*/
 }
 
-.openNetwork {
+#openNetwork {
     font-family: 'Montserrat', sans-serif;
     letter-spacing: 1px;
     font-size: 18px;
