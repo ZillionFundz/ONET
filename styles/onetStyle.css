@@ -105,6 +105,8 @@ body {
     font-size: 18px;
     font-weight: 10px;
     text-transform: uppercase;
+    margin: 0px;
+    padding: 0px;
 }
 
 .welcomingBottomTextWelcome {
@@ -120,7 +122,7 @@ body {
     letter-spacing: 1px;*/
     font-family: Arial-black;
     font-size: 22px;
-    font-weight: 10px;
+    font-weight: 20px;
     text-transform: uppercase;
     /*text-align: center;*/
 }
