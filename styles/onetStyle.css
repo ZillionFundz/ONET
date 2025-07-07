@@ -46,12 +46,6 @@ body {
     padding-left: 20px;
 }
 
-.logoBox {
-    margin: auto;
-    padding: auto;
-
-}
-
 .welcomingBoxTop {
     display: flex;
     justify-content: center;
@@ -62,13 +56,17 @@ body {
     /*font-size: 1.8rem;*/
 }
 
+.logoBox {
+    margin: auto;
+    padding: auto;
+
+}
+
 .logoBox img {
     Width: 125px;
     height: 125px;
-    border-radius: 50%;
-/*     margin: auto;
-    padding: auto; */
-    border: 2px solid #0166FF;
+/*     border-radius: 50%;
+    border: 2px solid #0166FF; */
 
 }
 
