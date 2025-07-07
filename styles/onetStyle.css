@@ -36,14 +36,14 @@ body {
 }
 
 .welcomeHeader {
+/*     background: #0666FA; */
     width: 100%;
-    background: #0666FA;
     height: 70px;
     border-radius: 15px 15px 0px 0px;
-    border-top: 4px solid #000;
+/*     border-top: 4px solid #000; */
     margin: 0px;
-    padding: 10px;
-    padding-left: 20px;
+/*     padding: 10px;
+    padding-left: 20px; */
 }
 
 .welcomingBoxTop {
