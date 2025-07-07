@@ -51,7 +51,7 @@ body {
     justify-content: center;
     align-items: centr;
     flex-direction: column;
-    margin-top: 10px;
+    /*margin-top: 10px;*/
     /*font-size: 1.8rem;*/
 }
 
@@ -59,7 +59,8 @@ body {
     Width: 125px;
     height: 125px;
     border-radius: 50%;
-    padding: 5px;
+    margin: auto;
+    padding: auto;
     border: 2px solid #0166FF;
 
 }
