@@ -46,6 +46,13 @@ body {
     padding-left: 20px;
 }
 
+.logoBox {
+    margin: auto;
+    padding: auto;
+    border: 2px solid #0166FF;
+
+}
+
 .welcomingBoxTop {
     display: flex;
     justify-content: center;
