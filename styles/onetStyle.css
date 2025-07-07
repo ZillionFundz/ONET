@@ -40,7 +40,6 @@ body {
     width: 100%;
     height: 70px;
     border-radius: 15px 15px 0px 0px;
-    display: flex;
 /*     border-top: 4px solid #000; */
     margin: 0px;
 /*     padding: 10px;
@@ -52,7 +51,7 @@ body {
     justify-content: center;
     align-items: centr;
     flex-direction: column;
-    margin-top: 15px;
+    margin-top: 20px;
     margin-bottom: 5px;
     padding: 5px;
     /*font-size: 1.8rem;*/
@@ -90,7 +89,7 @@ body {
     border-radius: 35px 35px 0px 0px;
     height: 410px;
     padding: 20px 10px;
-    padding-bottom: 70px;
+    padding-bottom: 55px;
     width: 100%;
     border-top: 4px solid #000;
     /*overflow: hidden;*/
