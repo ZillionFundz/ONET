@@ -37,7 +37,7 @@ body {
 
 .welcomeHeader {
     width: 100%;
-    background: #6b6dfa;
+    background: #0166FF;
     height: 70px;
     border-radius: 15px 15px 0px 0px;
     border-top: 4px solid #000;
@@ -139,7 +139,7 @@ body {
     padding: 2px;
     /*width: 100%;*/
     height: 100vh;
-    border: 1px solid red;
+    /*border: 1px solid red;*/
     /*border-radius: 5px;*/
     /*animation: slide 16s infinite;*/
 }
