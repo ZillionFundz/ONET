@@ -37,7 +37,7 @@ body {
 
 .welcomeHeader {
     width: 100%;
-    background: #0166FF;
+    background: #0666FA;
     height: 70px;
     border-radius: 15px 15px 0px 0px;
     border-top: 4px solid #000;
@@ -51,7 +51,8 @@ body {
     justify-content: center;
     align-items: centr;
     flex-direction: column;
-    /*margin-top: 10px;*/
+    margin-top: 10px;
+    padding: 5px;
     /*font-size: 1.8rem;*/
 }
 
@@ -59,8 +60,8 @@ body {
     Width: 125px;
     height: 125px;
     border-radius: 50%;
-    margin: auto;
-    padding: auto;
+/*     margin: auto;
+    padding: auto; */
     border: 2px solid #0166FF;
 
 }
@@ -69,9 +70,9 @@ body {
     font-family: Arial-black;
     font-weight: bold;
     text-align: center;
-    /*margin-top: 5px*/
-    margin: auto;
-    padding: auto;
+    margin-top: 5px
+   /* margin: auto;
+    padding: auto;*/
 }
 
 .welcomingBottom {
@@ -79,7 +80,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background: #0166FF;
+    background: #0666FA;
     border-radius: 35px 35px 0px 0px;
     height: 410px;
     padding: 20px 10px;
